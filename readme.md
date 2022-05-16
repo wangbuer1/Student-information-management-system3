@@ -54,6 +54,8 @@
 ![角色权限控制1](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220506220316.png)
 
 ![角色控制2](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220506220304.jpg)
+## 视频演示
+[点击观看视频，位于文章下方](https://mp.weixin.qq.com/s/Sbeo5_1weJRyNQ0vkrWVGQ)
 
 ## 关注公众号： **程序员王不二**，回复 “学生3 ” ，即可获取完整版的项目代码。
 
